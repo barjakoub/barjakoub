@@ -11,18 +11,11 @@ Let's connect and collaborate through the following links
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@fatkhurawe@gmail.com)](mailto:mail@fatkhurawe@gmail.com)
 
 ### Skills ⚡
-- Javascript for Server-Side <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-- Python <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-python-48.png"></code>
-- PHP <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-php-48.png"></code>
-- Express.js <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-express-js-48.png"></code>
-- Fast API <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/fastapi-1.png"></code>
-- Laravel <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/laravel-2.png"></code>
-
+- Javascript for Server-Side, Python, PHP, Express.js, Fast API, Laravel
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-python-48.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-php-48.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-express-js-48.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/fastapi-1.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/laravel-2.png"></code>
 ### Currently Learning 📖
-- Terraform <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/terraform-enterprise.png"></code>
-- Docker <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/docker-4.png"></code>
-- Google Kubernetes Engine <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/kubernets.png"></code>
-- Google Cloud Services <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-google-cloud-48.png"></code>
+- Terraform,  Docker, Google Kubernetes Engine, Google Cloud Services
+- <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/terraform-enterprise.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/docker-4.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/kubernets.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-google-cloud-48.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barjakoub&layout=compact&hide=css,html)
 <!--
