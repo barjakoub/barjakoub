@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header image](https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/gh-cover-p%20(1).png)
+![Header image](https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/linkedin-cover%20(3).png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 Students of the Information Technology Department, Majoring in Informatics Engineering, became part of the Cloud Computing
 Cohort in Bangkit Academy 2023 Batch 2. Delve into the role of a Cloud Engineer.
