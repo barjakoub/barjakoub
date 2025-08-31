@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4544598.chunk.css",
-    "main.js": "/static/js/main.d400fd30.chunk.js",
-    "main.js.map": "/static/js/main.d400fd30.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1584fec6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1584fec6.js.map",
-    "static/css/2.4b885c86.chunk.css": "/static/css/2.4b885c86.chunk.css",
-    "static/js/2.669bdcfc.chunk.js": "/static/js/2.669bdcfc.chunk.js",
-    "static/js/2.669bdcfc.chunk.js.map": "/static/js/2.669bdcfc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4b885c86.chunk.css.map": "/static/css/2.4b885c86.chunk.css.map",
-    "static/css/main.a4544598.chunk.css.map": "/static/css/main.a4544598.chunk.css.map",
-    "static/js/2.669bdcfc.chunk.js.LICENSE.txt": "/static/js/2.669bdcfc.chunk.js.LICENSE.txt",
-    "static/media/fontawesome.min.css": "/static/media/fa-solid-900.f98d003b.svg",
-    "static/media/icofont.min.css": "/static/media/icofont.dad3accb.woff"
+    "main.css": "/barjakoub/static/css/main.4224f6d8.chunk.css",
+    "main.js": "/barjakoub/static/js/main.69e90912.chunk.js",
+    "main.js.map": "/barjakoub/static/js/main.69e90912.chunk.js.map",
+    "runtime-main.js": "/barjakoub/static/js/runtime-main.4754dde4.js",
+    "runtime-main.js.map": "/barjakoub/static/js/runtime-main.4754dde4.js.map",
+    "static/css/2.4b885c86.chunk.css": "/barjakoub/static/css/2.4b885c86.chunk.css",
+    "static/js/2.669bdcfc.chunk.js": "/barjakoub/static/js/2.669bdcfc.chunk.js",
+    "static/js/2.669bdcfc.chunk.js.map": "/barjakoub/static/js/2.669bdcfc.chunk.js.map",
+    "index.html": "/barjakoub/index.html",
+    "static/css/2.4b885c86.chunk.css.map": "/barjakoub/static/css/2.4b885c86.chunk.css.map",
+    "static/css/main.4224f6d8.chunk.css.map": "/barjakoub/static/css/main.4224f6d8.chunk.css.map",
+    "static/js/2.669bdcfc.chunk.js.LICENSE.txt": "/barjakoub/static/js/2.669bdcfc.chunk.js.LICENSE.txt",
+    "static/media/fontawesome.min.css": "/barjakoub/static/media/fa-solid-900.f98d003b.svg",
+    "static/media/icofont.min.css": "/barjakoub/static/media/icofont.dad3accb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.1584fec6.js",
+    "static/js/runtime-main.4754dde4.js",
     "static/css/2.4b885c86.chunk.css",
     "static/js/2.669bdcfc.chunk.js",
-    "static/css/main.a4544598.chunk.css",
-    "static/js/main.d400fd30.chunk.js"
+    "static/css/main.4224f6d8.chunk.css",
+    "static/js/main.69e90912.chunk.js"
   ]
 }
