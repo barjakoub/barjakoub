@@ -1,8 +1,11 @@
 ### Hi there 👋
-![Header image](https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/linkedin-cover%20(3).png)
+![Header image](https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/LinkedIn%20Cover.png)
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-Students of the Information Technology Department, Majoring in Informatics Engineering, became part of the Cloud Computing
-Cohort in Bangkit Academy 2023 Batch 2. Delve into the role of a Cloud Engineer.
+Cloud Native & DevOps engineer specializing in infrastructure automation, service orchestration, and scalable cloud-native operations. Experienced in designing and implementing robust CI/CD pipelines using GitHub Actions and Jenkins, and in managing containerized workloads with Docker and Kubernetes for efficient deployment and scaling.
+
+Proficient in Google Cloud Platform (Associate Cloud Engineer certified), with a track record of building resilient systems that integrate seamlessly with modern cloud environments. Actively develops backend services and tools in Go, while also delivering fullstack applications using Next.js and TypeScript, enabling an end-to-end engineering approach from code to production.
+
+Committed to building systems that are scalable, reliable, and maintainable, combining cloud-native architecture, automation best practices, and fullstack development expertise to accelerate software delivery and improve operational efficiency.
 
 Let's connect and collaborate through the following links
 
@@ -10,12 +13,12 @@ Let's connect and collaborate through the following links
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/fatkhur.err/)](https://www.instagram.com/fatkhur.err/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@fatkhurawe@gmail.com)](mailto:mail@fatkhurawe@gmail.com)
 
-### Skills ⚡
-- Javascript for Server-Side, Python, PHP, Express.js, Fast API, Laravel
-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-python-48.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-php-48.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-express-js-48.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/fastapi-1.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/laravel-2.png"></code>
+### Area of Expertise ⚡
+- Go Language, Gin, Typescript, Next.js, Kubernetes with CRI Docker, Jenkins, GitHub Actions, Google Cloud Platform Services, Cloudflare
+- <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original-wordmark.svg"></code>  <code><img height="20" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/typescript/typescript-original.svg"></code>  <code><img height="20" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/nextjs/nextjs-original.svg"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg"></code>  <code><img height="20" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/docker/docker-original.svg"></code>  <code><img height="20" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/jenkins/jenkins-original.svg"></code>  <code><img height="20" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/githubactions/githubactions-original.svg"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/googlecloud/googlecloud-original.svg"></code>  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cloudflare/cloudflare-original.svg"></code>
 ### Currently Learning 📖
-- Terraform,  Docker, Google Kubernetes Engine, Google Cloud Services
-- <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/terraform-enterprise.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/docker-4.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/kubernets.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/icons8-google-cloud-48.png"></code>
+- Ansible, Tekton, JenkinsX, Weave GitOps
+- <code><img height="20" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/ansible/ansible-original.svg"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/tekton.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/jenkinsx.png"></code>  <code><img height="20" src="https://raw.githubusercontent.com/barjakoub/barjakoub/main/assets/weave-git-ops.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barjakoub&layout=compact&hide=css,html)
 <!--
